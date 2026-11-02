@@ -1,0 +1,1 @@
+reserve limit + write bid in one transaction
