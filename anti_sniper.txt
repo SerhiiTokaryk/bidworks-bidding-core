@@ -1,0 +1,2 @@
+extend deadline by 2 min if bid in last 30 s
+max 10 extensions per lot
