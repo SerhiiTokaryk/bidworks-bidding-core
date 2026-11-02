@@ -1,1 +1,2 @@
 reserve limit + write bid in one transaction
+compensation releases reserve
