@@ -1,0 +1,3 @@
+reserve limit + write bid in one transaction
+compensation releases reserve
+fix: release reserve when bid is rejected by price
